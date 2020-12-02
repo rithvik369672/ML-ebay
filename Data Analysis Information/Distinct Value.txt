@@ -1,5 +1,14 @@
 1. This data have 5 differerent category         
 {1, 2, 3, 4, 5}
+The data in each category is inbalance.
+
+1    501570
+2    327871
+3     95437
+4     42866
+5     34531
+
+We can see the 5 category has the less value. So we really need to be careful about data bias.
 
 2. Total data size is 1002275 
 
