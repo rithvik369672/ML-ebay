@@ -3,4 +3,6 @@
 
 2. Total data size is 1002275 
 
+3. Because there are too many different colors in the data size ( For example, the first 2000 row has 128 unique value), we need to decide how to category the color into roughly 20 categories.
+
 // 20201202 by Ray
