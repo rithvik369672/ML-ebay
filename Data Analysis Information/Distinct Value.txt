@@ -1,0 +1,3 @@
+1. This data have 5 differerent category         // 20201202 by Ray
+{1, 2, 3, 4, 5}
+
