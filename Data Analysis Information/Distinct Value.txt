@@ -16,6 +16,3 @@ We can see the 5 category has the less value. So we really need to be careful ab
 
 // 20201202 by Ray
 
-Of the 1006089 listings, there are around 5830 cells with no attributes. I think we should discard them immediately
-
-//20201203 by Rithvik
